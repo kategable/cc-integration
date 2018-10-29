@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/partner-integration/.vs
-/partner-integration/.vscode
+/obj
+/bin/Debug/netcoreapp2.1
+/.vs/jslibrary-partner-integration/v15
